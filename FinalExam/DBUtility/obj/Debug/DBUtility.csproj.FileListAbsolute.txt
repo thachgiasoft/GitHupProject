@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\DBUtility\bin\Debug\shaoqi.DBUtility.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\DBUtility\bin\Debug\shaoqi.DBUtility.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\DBUtility\obj\Debug\shaoqi.DBUtility.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\DBUtility\obj\Debug\shaoqi.DBUtility.pdb
+E:\C#练习\FinalExam\DBUtility\bin\Debug\shaoqi.DBUtility.dll
+E:\C#练习\FinalExam\DBUtility\bin\Debug\shaoqi.DBUtility.pdb
+E:\C#练习\FinalExam\DBUtility\bin\Debug\IBatisNet.Common.dll
+E:\C#练习\FinalExam\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+E:\C#练习\FinalExam\DBUtility\bin\Debug\MySql.Data.dll
+E:\C#练习\FinalExam\DBUtility\bin\Debug\System.Data.SQLite.DLL
+E:\C#练习\FinalExam\DBUtility\obj\Debug\shaoqi.DBUtility.dll
+E:\C#练习\FinalExam\DBUtility\obj\Debug\shaoqi.DBUtility.pdb
+E:\C#练习\FinalExam\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

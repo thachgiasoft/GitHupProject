@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Common\bin\Debug\shaoqi.Common.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Common\bin\Debug\shaoqi.Common.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Common\bin\Debug\COM.Excel.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Common\bin\Debug\Excel.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Common\bin\Debug\OpenSmtp.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Common\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Common\obj\Debug\shaoqi.Common.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Common\obj\Debug\shaoqi.Common.pdb
+E:\C#练习\FinalExam\Common\bin\Debug\shaoqi.Common.dll
+E:\C#练习\FinalExam\Common\bin\Debug\shaoqi.Common.pdb
+E:\C#练习\FinalExam\Common\bin\Debug\COM.Excel.dll
+E:\C#练习\FinalExam\Common\bin\Debug\Excel.dll
+E:\C#练习\FinalExam\Common\bin\Debug\OpenSmtp.dll
+E:\C#练习\FinalExam\Common\bin\Debug\OWC10Chart.dll
+E:\C#练习\FinalExam\Common\obj\Debug\shaoqi.Common.dll
+E:\C#练习\FinalExam\Common\obj\Debug\shaoqi.Common.pdb
+E:\C#练习\FinalExam\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

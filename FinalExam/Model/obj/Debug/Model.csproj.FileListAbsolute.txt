@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Model\bin\Debug\shaoqi.Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Model\bin\Debug\shaoqi.Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Model\obj\Debug\shaoqi.Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\CodematicDemo\Model\obj\Debug\shaoqi.Model.pdb
+E:\C#练习\FinalExam\Model\bin\Debug\shaoqi.Model.dll
+E:\C#练习\FinalExam\Model\bin\Debug\shaoqi.Model.pdb
+E:\C#练习\FinalExam\Model\obj\Debug\shaoqi.Model.dll
+E:\C#练习\FinalExam\Model\obj\Debug\shaoqi.Model.pdb
+E:\C#练习\FinalExam\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
